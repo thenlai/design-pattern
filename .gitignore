@@ -1,3 +1,10 @@
+# For tools
+.vscode
+.DS_Store
+*.swp
+
+# For C++
+
 # Compiled Object files
 *.slo
 *.lo
@@ -27,3 +34,7 @@
 *.exe
 *.out
 *.app
+
+# For Java
+*.class
+*.jar
